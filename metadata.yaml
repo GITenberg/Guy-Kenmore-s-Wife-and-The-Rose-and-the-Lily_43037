@@ -1,0 +1,38 @@
+_repo: Guy-Kenmore-s-Wife-and-The-Rose-and-the-Lily_43037
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Miller, Alex. McVeigh, Mrs.
+    aliases:
+    - Miller, Mrs. Alex. McVeigh
+    - Miller, Alexander McVeigh, Mrs.
+    - Point, Mittie Frances Clarke
+    - Miller, Mrs. Alex McVeigh
+    birthdate: 1850
+    deathdate: 1937
+    gutenberg_agent_id: '35103'
+    url: http://www.gutenberg.org/2009/agents/35103
+description: 'One of the most popular mass-market fiction writers of the late nineteenth
+  century, American author Alexander McVeigh Miller (who often used her husband''s
+  name as a pen name) became well-known for her mastery of shocking plot twists. The
+  two tales collected in the double feature Guy Kenmore''s Wife and The Rose and the
+  Lily are chock-full of Miller''s trademark motifs: family secrets, deathbed confessions,
+  mysterious letters, and intricate clues.'
+gutenberg_issued: '2013-06-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43037'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+tableOfContents: Guy Kenmore's wife; or, her mother's secret -- The rose and the lily;
+  or, love wins love.
+title: Guy Kenmore's Wife, and The Rose and the Lily
+url: http://www.gutenberg.org/ebooks/43037
